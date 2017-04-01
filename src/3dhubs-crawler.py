@@ -3,7 +3,6 @@
 # by Xilin Sun
 # April 2015
 
-
 import urllib2
 import bs4
 import requests
